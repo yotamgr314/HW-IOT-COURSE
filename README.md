@@ -1,4 +1,4 @@
-that's just a simple text-based "profile" on a MIFARE Classic RFID tag using an Arduino and the MFRC522 reader.
+that's just a simple text-based "profile" on a MIFARE Classic RFID tag.
 
  Each time a compatible tag is scanned, the sketch:
 
